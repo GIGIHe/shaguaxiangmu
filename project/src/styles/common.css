@@ -1,0 +1,33 @@
+.mt{
+  margin-top: 51px;
+}
+.mb
+{
+margin-bottom: 56px;
+}
+.padding-lr{
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.color-6{
+  color: #666;
+}
+/* 背景色白色 */
+.bgc-w{
+  background-color: #fff;
+}
+li{
+list-style-type:none;
+}
+.font-16{
+  font-size: 16px;
+}
+.font-w500{
+  font-weight: 500;
+}
+.mt-20{
+  margin-top: 20px;
+}
+.mb-20{
+  margin-bottom: 20px;
+}
